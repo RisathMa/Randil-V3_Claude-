@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery | Indusarani Montessori House & Daycare Center</title>
+  <meta name="description" content="View photos from Indusarani Montessori's events, classroom activities, sports meets, cultural celebrations, art sessions, and more in Gampaha, Sri Lanka." />
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+    .gallery-item { aspect-ratio: 1; border-radius: var(--radius); font-size: 4rem; }
+    .social-gallery { background: var(--green-light); border-radius: var(--radius); padding: 40px; text-align: center; margin-top: 40px; }
+  </style>
+</head>
+<body>
+
+<div id="header-placeholder"></div>
+
+<section class="page-hero page-top">
+  <div class="container page-hero-content">
+    <nav class="breadcrumb"><a href="index.html">Home</a> <span>/</span> <span>Gallery</span></nav>
+    <span class="section-label">Our Moments</span>
+    <h1 class="section-title">Life at Indusarani</h1>
+    <p style="color:var(--text-light);max-width:560px;margin:0 auto;font-size:1.05rem;">Joyful moments, learning adventures, cultural celebrations, and happy children — a glimpse into our world.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <!-- Filter -->
+    <div class="gallery-filter">
+      <button class="filter-btn active" data-cat="all">All</button>
+      <button class="filter-btn" data-cat="classroom">🎓 Classroom</button>
+      <button class="filter-btn" data-cat="play">🏃 Play Time</button>
+      <button class="filter-btn" data-cat="arts">🎨 Arts & Crafts</button>
+      <button class="filter-btn" data-cat="events">🎉 Events</button>
+      <button class="filter-btn" data-cat="sports">🏆 Sports</button>
+      <button class="filter-btn" data-cat="swim">🏊 Swimming</button>
+    </div>
+
+    <!-- Grid -->
+    <div class="gallery-grid">
+      <div class="gallery-item fade-up" data-cat="classroom" style="background:#E8F7EF;"><span class="gallery-emoji">📖</span><div class="gallery-overlay"><span class="gallery-label">Reading Time</span></div></div>
+      <div class="gallery-item fade-up" data-cat="play" style="background:#EBF4FB;"><span class="gallery-emoji">🏃</span><div class="gallery-overlay"><span class="gallery-label">Outdoor Play</span></div></div>
+      <div class="gallery-item fade-up" data-cat="arts" style="background:#FFF8E1;"><span class="gallery-emoji">🎨</span><div class="gallery-overlay"><span class="gallery-label">Art & Crafts</span></div></div>
+      <div class="gallery-item fade-up" data-cat="events" style="background:#FCE4EC;"><span class="gallery-emoji">🎉</span><div class="gallery-overlay"><span class="gallery-label">Indusarani Exhibition 2025</span></div></div>
+      <div class="gallery-item fade-up" data-cat="sports" style="background:#E8F7EF;"><span class="gallery-emoji">🏆</span><div class="gallery-overlay"><span class="gallery-label">Sports Meet 2023</span></div></div>
+      <div class="gallery-item fade-up" data-cat="swim" style="background:#EBF4FB;"><span class="gallery-emoji">🏊</span><div class="gallery-overlay"><span class="gallery-label">Swimming Sessions</span></div></div>
+      <div class="gallery-item fade-up" data-cat="events" style="background:#F3E5F5;"><span class="gallery-emoji">🪔</span><div class="gallery-overlay"><span class="gallery-label">Thai Pongal Celebration</span></div></div>
+      <div class="gallery-item fade-up" data-cat="classroom" style="background:#FFF8E1;"><span class="gallery-emoji">🔢</span><div class="gallery-overlay"><span class="gallery-label">Montessori Math</span></div></div>
+      <div class="gallery-item fade-up" data-cat="arts" style="background:#FCE4EC;"><span class="gallery-emoji">✂️</span><div class="gallery-overlay"><span class="gallery-label">Craft Session</span></div></div>
+      <div class="gallery-item fade-up" data-cat="play" style="background:#E8F7EF;"><span class="gallery-emoji">🛝</span><div class="gallery-overlay"><span class="gallery-label">Playground Fun</span></div></div>
+      <div class="gallery-item fade-up" data-cat="events" style="background:#EBF4FB;"><span class="gallery-emoji">🎭</span><div class="gallery-overlay"><span class="gallery-label">Asala Perahara Event</span></div></div>
+      <div class="gallery-item fade-up" data-cat="classroom" style="background:#FFF8E1;"><span class="gallery-emoji">🌍</span><div class="gallery-overlay"><span class="gallery-label">Cultural Studies</span></div></div>
+      <div class="gallery-item fade-up" data-cat="sports" style="background:#FCE4EC;"><span class="gallery-emoji">🏅</span><div class="gallery-overlay"><span class="gallery-label">Award Ceremony</span></div></div>
+      <div class="gallery-item fade-up" data-cat="events" style="background:#E8F7EF;"><span class="gallery-emoji">🎪</span><div class="gallery-overlay"><span class="gallery-label">Montessori Fair 2025</span></div></div>
+      <div class="gallery-item fade-up" data-cat="play" style="background:#F3E5F5;"><span class="gallery-emoji">🎈</span><div class="gallery-overlay"><span class="gallery-label">Birthday Celebration</span></div></div>
+      <div class="gallery-item fade-up" data-cat="arts" style="background:#EBF4FB;"><span class="gallery-emoji">🖌️</span><div class="gallery-overlay"><span class="gallery-label">Painting Day</span></div></div>
+      <div class="gallery-item fade-up" data-cat="classroom" style="background:#FFF8E1;"><span class="gallery-emoji">🔬</span><div class="gallery-overlay"><span class="gallery-label">Science Exploration</span></div></div>
+      <div class="gallery-item fade-up" data-cat="events" style="background:#FCE4EC;"><span class="gallery-emoji">🎓</span><div class="gallery-overlay"><span class="gallery-label">Graduation Day</span></div></div>
+    </div>
+
+    <!-- Social Media CTA -->
+    <div class="social-gallery fade-up">
+      <h3 style="font-family:var(--font-head);font-size:1.5rem;margin-bottom:12px;">See More on Social Media</h3>
+      <p style="color:var(--text-light);margin-bottom:24px;">Follow us on Facebook and Instagram for the latest photos, events, and updates from Indusarani!</p>
+      <div class="social-links" style="justify-content:center;">
+        <a href="https://www.facebook.com/IdusaraniMontessoriHouse" target="_blank" class="social-btn fb">📘 Facebook (Main)</a>
+        <a href="https://www.facebook.com/daycareindusarani" target="_blank" class="social-btn fb">📗 Facebook (Daycare)</a>
+        <a href="https://www.instagram.com/indusarani_daycare_" target="_blank" class="social-btn ig">📸 @indusarani_daycare_</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="footer-placeholder"></div>
+<script src="js/components.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

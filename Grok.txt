@@ -1,0 +1,63 @@
+Create a complete, mobile-friendly website for Idusarani Montessori House & Daycare Center (also known as Indusarani Montessori House & Daycare Center) based in Gampaha, Sri Lanka. The website must be fully functional, responsive for all devices (desktops, tablets, and mobiles), using HTML5, CSS3 (with media queries for responsiveness), and JavaScript for interactivity where needed (e.g., contact form submission, image gallery slider). Use a clean, child-friendly design with bright colors like greens, blues, yellows, and playful fonts (e.g., Google Fonts: 'Poppins' for body, 'Pacifico' for headings). Ensure fast loading, SEO-optimized (meta tags, alt texts for images), and accessible (ARIA labels where applicable).
+Incorporate all available information from the internet about the center:
+
+Basic Details: Name: Idusarani Montessori House & Daycare Center. Tagline: "Let us care for your child as ours!" Location: No. 10/A 1/1, Courts Lane (or Vijaya Road), Gampaha, Sri Lanka (Google Plus Code: 3XRW+C56). Phone: +94 71 190 1190. Emails: prasadiapsara1978@gmail.com or chanaka1978s@gmail.com. Over a decade of experience in exceptional childcare. Google Rating: 5.0 stars (based on limited reviews).
+Services and Programs: Montessori-style preschool and kindergarten education focusing on early child development and joyful learning. Full-day daycare and childcare services. Extracurricular activities including annual sports meets, exhibitions (e.g., Indusarani Exhibition 2025, Montessori Fair 2025), cultural celebrations (e.g., Thai Pongal, Asala Maha Perahara themed events), swimming sessions, playground activities, and welcoming new students (e.g., enrollments for 2026). Emphasis on treating children "as our own" in a safe, nurturing environment.
+Features: New facilities including a playground and "new home" setup. Child-focused events like first days, annual sports meets (e.g., 2023 event), and community activities. No specific staff details available, but highlight experienced caregivers.
+Social Media Integration: Embed or link to Facebook pages (https://www.facebook.com/IdusaraniMontessoriHouse and https://www.facebook.com/daycareindusarani), Instagram (@indusarani_daycare_ at https://www.instagram.com/indusarani_daycare_). Include feeds or latest posts if possible via embeds.
+Other Info: Trusted local center in Gampaha with modest online presence. No official website exists currently; this will be the new one. Include calls-to-action for inquiries via phone, email, or WhatsApp.
+
+Website Structure and Pages (use a navigation menu that collapses into a hamburger icon on mobile):
+
+Header: Logo (placeholder: a simple text logo "Idusarani Montessori House & Daycare Center" with a child-themed icon). Navigation links: Home, About Us, Programs & Services, Gallery, Events, Admissions, Contact. Include phone number and "Enroll Now" button. Make header sticky on scroll.
+Footer: Copyright © 2026 Idusarani Montessori House & Daycare Center. Links to social media, contact info, address with embedded Google Map, privacy policy (simple placeholder text), and back-to-top button.
+Home Page:
+Hero section: Full-width background image of happy children playing (use placeholder URL or describe: bright playground scene). Overlay text: Welcome message, tagline, and "Over 10 years of nurturing young minds in Gampaha."
+Sections: Quick overview of services (cards for Montessori Education, Daycare, Activities). Testimonials (use placeholder: "5-star Google review: Excellent care!"). Call-to-action: Contact form teaser.
+Responsive: Stack sections vertically on mobile.
+
+About Us Page:
+Introduction: History (over a decade of experience), mission (joyful learning, safe care as our own children), Montessori approach (child-centered education).
+Team: Placeholder for staff (e.g., "Experienced educators and caregivers").
+Values: Safety, development, cultural integration.
+Image: Group photo placeholder.
+
+Programs & Services Page:
+List all services in accordion or tabbed sections for mobile-friendliness:
+Montessori Preschool: Ages (assume 2-6; interactive learning).
+Daycare Center: Full-day care, nurturing environment.
+Extracurriculars: Sports meets, swimming, playground, cultural events (Thai Pongal, Asala Perahara).
+Enrollments: Open for 2026; process details.
+
+Pricing: Placeholder (e.g., "Contact for fees") since not available.
+Benefits: Bullet points on child development.
+
+Gallery Page:
+Responsive grid or slider (using CSS Grid/Flexbox and JS library like Slick Slider): Embed placeholders for photos/videos from events (sports meets 2023, exhibitions 2025, first days, playground). Sources: Link to social media for actual images. Categories: Events, Activities, Facilities.
+
+Events Page:
+Upcoming: Indusarani Exhibition 2025, Montessori Fair 2025, annual sports meet.
+Past: 2023 sports meet, cultural celebrations.
+Calendar: Simple list or embed Google Calendar placeholder.
+RSVP form for events.
+
+Admissions Page:
+Process: Steps to enroll (contact, visit, forms).
+Requirements: Age groups, documents (placeholder).
+Form: Online inquiry form (name, email, phone, child's age, message) with JS validation and submission alert (simulate email send).
+FAQ: Common questions (e.g., "What ages do you accept?").
+
+Contact Page:
+Form: Full contact form (name, email, subject, message) with JS for submission.
+Details: Address, phone, emails, hours (assume 8 AM - 5 PM; placeholder).
+Map: Embed Google Maps iframe for location.
+Social links.
+
+
+Technical Requirements:
+
+Responsiveness: Use media queries (e.g., @media (max-width: 768px) { adjust layouts }).
+SEO: Title tags (e.g., "Idusarani Montessori House & Daycare Center - Gampaha"), meta descriptions, keywords (Montessori Gampaha, daycare Sri Lanka).
+Interactivity: JS for form validation, gallery slider, smooth scrolling.
+Assets: Use free placeholders (e.g., Unsplash for images: children playing, playground). Include alt texts.
+Performance: Minify CSS/JS, lazy-load images.

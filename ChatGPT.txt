@@ -1,0 +1,229 @@
+Build a complete, modern, mobile-friendly, SEO-optimized website for the following business:
+
+Business Name: Indusarani Montessori House & Daycare Center
+Category: Preschool, Kindergarten & Daycare
+Location: 3XRW+C56, Vijaya Rd, Gampaha, Western Province, Sri Lanka
+Alternate Address (Directory Listing): No.10/A Courts Lane, Gampaha
+Phone: +94 71 190 1190
+Email: chanaka1978s@gmail.com
+
+Service Area: Gampaha, Sri Lanka
+
+Business Description:
+Indusarani Montessori House & Daycare Center is a trusted early childhood care and preschool center in Gampaha. The center provides a safe, nurturing, and structured environment where children can learn, play, and grow. It offers daycare services and preschool education with Montessori-inspired, play-based learning methods designed to support emotional, social, and cognitive development.
+
+The website must be:
+
+Fully responsive (mobile-first design)
+
+Clean, modern, and professional
+
+Warm and child-friendly color scheme (soft blue, pastel yellow, light green)
+
+Fast loading
+
+SEO optimized
+
+Accessible and easy to navigate
+
+Include clear Call-to-Action buttons (Call Now, Enroll Now, Get Directions)
+
+Create the following pages and sections:
+
+HOME PAGE
+Include:
+
+Hero section with large welcoming headline:
+“Nurturing Little Hearts & Growing Bright Minds”
+
+Short introduction paragraph
+
+Call Now button linked to tel:+94711901190
+
+WhatsApp button linked to same number
+
+Services preview section
+
+Why Choose Us section
+
+Testimonials section
+
+Gallery preview
+
+Google Map embed
+
+Footer with contact info
+
+ABOUT US PAGE
+Include:
+
+Mission: To provide a safe, loving, and stimulating environment for early childhood growth.
+
+Vision: To be the most trusted childcare and preschool center in Gampaha.
+
+Philosophy: Montessori-inspired, play-based learning, child-centered education.
+
+Emphasize safe supervision, nurturing care, and structured development.
+
+PROGRAMS / SERVICES PAGE
+Include detailed sections for:
+
+Daycare Services:
+
+Full-day and part-day care
+
+Safe and supervised environment
+
+Rest, play, and structured activities
+
+Social development
+
+Preschool & Early Learning:
+
+Montessori-inspired learning
+
+Play-based curriculum
+
+Language development
+
+Motor skills development
+
+Cognitive development
+
+School readiness preparation
+
+Mention:
+
+Experienced caregivers
+
+Child-friendly environment
+
+Personalized attention
+
+WHY CHOOSE US PAGE
+Include:
+
+Trusted local childcare provider in Gampaha
+
+Safe and secure environment
+
+Caring and experienced staff
+
+Structured preschool curriculum
+
+Focus on emotional and social development
+
+Parent communication and support
+
+GALLERY PAGE
+Create a responsive image grid layout (placeholders allowed).
+Include categories:
+
+Classroom Activities
+
+Play Time
+
+Art & Crafts
+
+Learning Sessions
+
+Group Activities
+
+FAQ PAGE
+Include questions such as:
+
+What age groups do you accept?
+
+What are your operating hours?
+
+Do you offer preschool preparation?
+
+How can I enroll my child?
+
+Do you provide meals?
+
+CONTACT PAGE
+Include:
+Phone: +94 71 190 1190
+Email: chanaka1978s@gmail.com
+
+Address: 3XRW+C56, Vijaya Rd, Gampaha, Sri Lanka
+
+Embed Google Maps using:
+https://www.google.com/maps?q=3XRW+C56+Vijaya+Rd+Gampaha+Sri+Lanka&output=embed
+
+Include:
+
+Contact form (Name, Phone, Email, Message)
+
+Enroll Now button
+
+Directions button
+
+FOOTER
+Include:
+
+Business Name
+
+Phone
+
+Email
+
+Address
+
+Quick Links
+
+Copyright text
+
+Social Media placeholder (Facebook)
+
+SEO REQUIREMENTS
+Generate:
+
+Proper meta titles
+
+Meta descriptions
+
+Structured headings (H1, H2, H3)
+
+Schema markup for LocalBusiness and ChildCare
+
+Optimized keywords:
+“Daycare in Gampaha”
+“Montessori preschool Gampaha”
+“Childcare center in Gampaha”
+“Best preschool in Gampaha”
+
+TECHNICAL REQUIREMENTS
+
+Use modern HTML5 and CSS3
+
+Use responsive design (Flexbox or Grid)
+
+Mobile-first layout
+
+Smooth scrolling
+
+Clean navigation bar
+
+Sticky header
+
+Soft animations
+
+Professional typography
+
+Optimized images
+
+Make the tone:
+
+Warm
+
+Professional
+
+Parent-focused
+
+Trust-building
+
+Friendly and welcoming
+
+Ensure the final result is a complete ready-to-deploy website with all pages and structured content included.
